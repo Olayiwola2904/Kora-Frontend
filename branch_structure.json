@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-996-audit-sme-dashboard-first-invoice-empty-state",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-996-audit-sme-dashboard-first-invoice-empty-state": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-996-audit-sme-dashboard-first-invoice-empty-state",
+    "origin"
+  ]
+}
